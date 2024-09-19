@@ -1,0 +1,18 @@
+Player Name: T
+Player Character: Gumdrop_Griffin
+Player Stamina: 76
+Player Gold: -7
+Player Inventory: 
+[Toxic Taffy]
+[Ruby Rapture]
+[Crimson Crystal]
+[Venomous Vortex]
+[Mystic Marshmallow]
+[Toxic Taffy]
+[Caramel Comet ]
+Player Name: s
+Player Character: Caramel_Claire
+Player Stamina: 106
+Player Gold: 0
+Player Inventory: 
+[Frosty Fizz]
